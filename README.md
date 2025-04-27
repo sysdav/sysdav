@@ -1,6 +1,6 @@
 <h3 align="center">
     <samp>&gt; Hey There!, I am
-        <b><a target="_blank" href="http://devdavid.com.br/">David William</a></b>
+        <b><a target="_blank" href="http://sysdavid.com/">David William</a></b>
     </samp>
 </h3>
 
@@ -12,13 +12,13 @@
 </p>
 
 <p align="center">
-  <a href="http://devdavid.com.br/" target="_blank">
+  <a href="http://sysdavid.com/" target="_blank">
     <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="OurDavid Website" />
   </a>
   <a href="https://linkedin.com/in/ourdavid" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:contactdavidwilliams@gmail.com" target="_blank">
+  <a href="mailto:contato@ourdavid.com.br" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" />
 </a>
 </p>
