@@ -44,7 +44,7 @@ Currently, I am studying **Software Engineering** at **IESB**.
 
 <p align="left">
     
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,docker,git,github,aws,vscode,clion,pycharm,linux,bash,arch,ubuntu,ps,pr,ae,au,figma,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,docker,git,github,aws,vscode,clion,pycharm,linux,bash,arch,ubuntu)](https://skillicons.dev)
 
   
   
